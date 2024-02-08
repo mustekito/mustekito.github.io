@@ -1,6 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IJRS":
+  url: https://www.tandfonline.com/toc/tres20/current
+  color: "#006db4"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JSTARS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+  color: "#14303e"
+
+"SARTECO":
+  url: https://jornadassarteco.org
+  color: "#cda179"
+
+"IGARSS":
+  url: https://www.2024.ieeeigarss.org
+  color: "#ff4700"
+
+"RM":
+  url: https://www.mdpi.com/journal/remotesensing
+  color: "#3a7138"
+
+"CMMSE":
+  url: https://cmmse.usal.es
+  color: "#7d7d7d"
+
+"JSUP":
+  url: https://link.springer.com/journal/11227
+  color: "#8f003b"
+
+"SPIE":
+  url: https://spie.org
+  color: "#01a49d"

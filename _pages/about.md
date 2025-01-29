@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>Office 8</p>
     <p>Edificio Emprendia</p>
-    <p>Avenida do Mestre Mateo, 2</p>
+    <p>Avda. do Mestre Mateo 2</p>
     <p>Santiago de Compostela</p>
     <p>15782 - Spain</p>
 
